@@ -469,20 +469,20 @@
 
     // Exaggerated, humorous script where grandpa is more assertive with his opinions. May contain profanity. Be creative! :)
     "1CandleReevaluation.Nuclear": "Я подумал, может быть, я был слишком резок в прошлый раз, поэтому я вернулся, чтобы посмотреть...{{gpaSurprise}}
-        #$b#But here I am, and you've still accomplished fuck-all.{{gpaRage}}
-        #$b#Your cousin %rival's progress on his farm would put you to shame.
-        ^Your cousin %rival's progress on her farm would put you to shame.{{gpaAngry}}
-        #$b#This visit was a waste of time.{{gpaFrown}}
+        #$b#Но вот я здесь, а ты все равно сделал хуйню.{{gpaRage}}
+        #$b#Прогресс твоего кузена - %rival's на ферме, ставит тебя в неловкое положение.
+        ^Прогресс твоего кузины - %rival's на ферме, ставит тебя в неловкое положение.{{gpaAngry}}
+        #$b#Этот визит был пустой тратой времени.{{gpaFrown}}
         #$b#...{{gpaSigh}}
-        #$b#I'm leaving... don't summon me again unless you have something worth seeing.{{gpaFrown}}
-        #$b#%Wow, grandpa is really angry. I better not disappoint him again.",
+        #$b#Я ухожу... не вызывай меня снова, если у тебя нет чего-то стоящего.{{gpaFrown}}
+        #$b#%Черт, дедушка очень зол. Лучше не разочаровывать его снова.",
     "1CandleReevaluation.Nuclear-gn": "Я подумал, может быть, я был слишком резок в прошлый раз, поэтому я вернулся, чтобы посмотреть...{{gpaSurprise}}
-        #$b#But here I am, and you've still accomplished fuck-all.{{gpaRage}}
-        #$b#Your cousin %rival's progress on their farm would put you to shame.{{gpaAngry}}
-        #$b#This visit was a waste of time.{{gpaFrown}}
+        #$b#Но вот я здесь, а здесь все равно сделано хуево.{{gpaRage}}
+        #$b#Прогресс твоего кузена - %rival's на ферме, ставит тебя в неловкое положение.{{gpaAngry}}
+        #$b#Этот визит был пустой тратой времени.{{gpaFrown}}
         #$b#...{{gpaSigh}}
-        #$b#I'm leaving... don't summon me again unless you have something worth seeing.{{gpaFrown}}
-        #$b#%Wow, grandpa is really angry. I better not disappoint him again.",
+        #$b#Я ухожу... не вызывай меня снова, если у тебя нет чего-то стоящего.{{gpaFrown}}
+        #$b#%Черт, дедушка очень зол. Лучше не разочаровывать его снова.",
     
     "2CandleReevaluation.Nuclear": "Это все, что ты хотел мне показать?{{gpaNeutral}}
         #$b#Я надеялся на что-то более... ну не знаю.{{gpaStern}}
@@ -552,8 +552,8 @@
     "ExpressivePortraits.name": "Выразительные диалоги портретов",
     "ExpressivePortraits.description": "Дарит дедушке множество новых выражений лица",
 
-    "PortraitStyle.name": "Choose grandpa's portrait art",
-    "PortraitStyle.description": "Changes the art style used for grandpa's expressive portraits:{{NL}}  auto - Checks for compatible portrait mods and uses a matching style if available{{NL}}  Vanilla - Grandpa matches the vanilla art style even if other portrait mods are installed{{NL}}  Poltergeister - Matches Poltergeister's art style no matter what portrait mods are installed",
+    "PortraitStyle.name": "Выберите портрет дедушки",
+    "PortraitStyle.description": "Изменение стиля искусства, используемого для экспрессивных портретов дедушки:{{NL}}  auto - Проверка совместимых модификаций портрета и использование соответствующего стиля, если такие имеются{{NL}}  Vanilla - Дедушка соответствует ванильному стилю, даже если установлены другие модификации портрета{{NL}}  Poltergeister - Соответствует стилю искусства Полтергейстера независимо от того, какие модификации портрета установлены",
     // Note to translators - do not translate the option names auto/Vanilla/Poltergeister
 
     "ScoringOptions.title": "Варианты оценки", // Category title
